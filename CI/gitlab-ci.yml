@@ -1,0 +1,38 @@
+image: python:latest
+
+stages:
+  - build
+  - deploy
+
+build:
+  stage: build
+  script:
+    - pip config set global.proxy $http_proxy
+    - pip install mkdocs-material
+    - mkdir _build
+    - mkdocs build --site-dir _build
+  artifacts:
+    paths:
+      - _build/
+  rules:
+    - if: $CI_COMMIT_REF_NAME =~ /^(\d+(\.\d+)*?)$/
+      when: always
+    - when: never
+  tags:
+    - polynomdocs
+
+pages:
+  stage: deploy
+  script:
+    - pip config set global.proxy $http_proxy
+    - pip install mkdocs-material
+    - mkdocs build --site-dir public
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
+      when: always
+    - when: never
+  tags:
+    - polynomdocs

@@ -1,0 +1,41 @@
+#
+msgid ""
+msgstr ""
+
+#: docs/index.md:block 1 (paragraph)
+msgid "hide:"
+msgstr ""
+
+#: docs/index.md:block 2 (unordered list)
+msgid "navigation"
+msgstr ""
+
+#: docs/index.md:block 2 (unordered list)
+msgid "toc"
+msgstr ""
+
+#: docs/index.md:block 3 (header)
+msgid "Добро пожаловать"
+msgstr ""
+
+#: docs/index.md:block 5 (unordered list)
+msgid ""
+":simple-materialformkdocs: **[MkDocs]** - мультиязычная документация с "
+"использованием `MkDocs`"
+msgstr ""
+
+#: docs/index.md:block 5 (unordered list)
+msgid ""
+":simple-sphinx: **[Sphinx]** - мультиязычная документация с использованием "
+"`Sphinx`"
+msgstr ""
+
+#: docs/index.md:block 6 (html)
+#, fuzzy
+msgid "[MkDocs]: mkdocs.md"
+msgstr "[MkDocs]: mkdocs.md"
+
+#: docs/index.md:block 6 (html)
+#, fuzzy
+msgid "[Sphinx]: sphinx.md"
+msgstr "[Sphinx]: sphinx.md"

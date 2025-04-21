@@ -1,0 +1,81 @@
+#
+msgid ""
+msgstr ""
+
+#: docs/mkdocs.md:block 1 (header)
+msgid "MkDocs"
+msgstr ""
+
+#: docs/mkdocs.md:block 2 (header)
+msgid "Создание проекта"
+msgstr ""
+
+#: docs/mkdocs.md:block 3 (ordered list)
+msgid "Создайте новый проект"
+msgstr ""
+
+#: docs/mkdocs.md:block 3 (ordered list)
+msgid ""
+"Отредактируйте `mkdocs.yml` по "
+"[инструкции](https://squidfunk.github.io/mkdocs-material/creating-your-"
+"site/#minimal-configuration)"
+msgstr ""
+
+#: docs/mkdocs.md:block 3 (ordered list)
+msgid "**Пример**"
+msgstr ""
+
+#: docs/mkdocs.md:block 3 (ordered list)
+msgid "Запустите сервер"
+msgstr ""
+
+#: docs/mkdocs.md:block 4 (header)
+msgid "Добавление страниц"
+msgstr ""
+
+#: docs/mkdocs.md:block 5 (paragraph)
+msgid ""
+"В папке `docs` создайте страницы вашей документации в формате `.md` и "
+"добавьте их в `mkdocs.yml`. Документация может иметь многоуровневую "
+"структуру."
+msgstr ""
+
+#: docs/mkdocs.md:block 8 (header)
+msgid "Сборка статического сайта"
+msgstr ""
+
+#: docs/mkdocs.md:block 9 (paragraph)
+msgid "Для сборки статического сайта выполните команду"
+msgstr ""
+
+#: docs/mkdocs.md:block 11 (paragraph)
+msgid "Собранные файлы можно загрузить на веб-сервер."
+msgstr ""
+
+#: docs/mkdocs.md:block 12 (paragraph)
+msgid "!!! tip \"Совет\""
+msgstr ""
+
+#: docs/mkdocs.md:block 14 (header)
+msgid "Добавление переводов"
+msgstr ""
+
+#: docs/mkdocs.md:block 15 (ordered list)
+msgid "Добавьте настройки плагина локализации в `mkdocs.yml`"
+msgstr ""
+
+#: docs/mkdocs.md:block 15 (ordered list)
+msgid "Сгенерируйте файлы локализации"
+msgstr ""
+
+#: docs/mkdocs.md:block 15 (ordered list)
+msgid "Добавьте переводы строк в файлы локализации"
+msgstr ""
+
+#: docs/mkdocs.md:block 15 (ordered list)
+msgid "Сгенерируйте файлы markdown"
+msgstr ""
+
+#: docs/mkdocs.md:block 15 (ordered list)
+msgid "Выполните сборку"
+msgstr ""

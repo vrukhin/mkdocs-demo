@@ -1,0 +1,72 @@
+#
+msgid ""
+msgstr ""
+
+#: docs/sphinx.md:block 1 (header)
+msgid "Sphinx"
+msgstr ""
+
+#: docs/sphinx.md:block 2 (header)
+msgid "Создание проекта"
+msgstr ""
+
+#: docs/sphinx.md:block 3 (ordered list)
+msgid "Создайте новый проект, следуя подсказкам мастера"
+msgstr ""
+
+#: docs/sphinx.md:block 3 (ordered list)
+msgid ""
+"Отредактируйте `conf.py` по [инструкции](https://www.sphinx-"
+"doc.org/en/master/usage/configuration.html)"
+msgstr ""
+
+#: docs/sphinx.md:block 3 (ordered list)
+msgid "Запустите сервер"
+msgstr ""
+
+#: docs/sphinx.md:block 4 (header)
+msgid "Добавление страниц"
+msgstr ""
+
+#: docs/sphinx.md:block 5 (paragraph)
+msgid ""
+"В папке `sources` создайте страницы вашей документации в формате `.rst`. В "
+"каждой папке должен находиться файл `index.rst`, содержащий ссылки на "
+"остальные файлы."
+msgstr ""
+
+#: docs/sphinx.md:block 6 (header)
+msgid "Сборка статического сайта"
+msgstr ""
+
+#: docs/sphinx.md:block 7 (paragraph)
+msgid "Для сборки статического сайта выполните команду"
+msgstr ""
+
+#: docs/sphinx.md:block 9 (paragraph)
+msgid "При наличии make-файла сборку можно запустить командой"
+msgstr ""
+
+#: docs/sphinx.md:block 11 (header)
+msgid "Добавление переводов"
+msgstr ""
+
+#: docs/sphinx.md:block 12 (ordered list)
+msgid "Добавьте в `conf.py` следующие строки"
+msgstr ""
+
+#: docs/sphinx.md:block 12 (ordered list)
+msgid "Запустите сборку в формат `gettext`"
+msgstr ""
+
+#: docs/sphinx.md:block 12 (ordered list)
+msgid "Сгенерируйте файлы локализации"
+msgstr ""
+
+#: docs/sphinx.md:block 12 (ordered list)
+msgid "Добавьте переводы строк в файлы локализации"
+msgstr ""
+
+#: docs/sphinx.md:block 12 (ordered list)
+msgid "Выполните сборку"
+msgstr ""

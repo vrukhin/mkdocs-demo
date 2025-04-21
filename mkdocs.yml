@@ -3,6 +3,17 @@ site_url: https://localhost:8000
 
 plugins:
   - search
+  - i18n:
+      default_language: ru
+      languages:
+        - locale: ru
+          default: true
+          name: Russian
+          build: true
+        - locale: en
+          name: English
+          build: true
+          site_name: MkDocs Example
 
 theme:
   name: material
