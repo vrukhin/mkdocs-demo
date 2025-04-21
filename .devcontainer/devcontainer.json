@@ -1,0 +1,17 @@
+{
+    "name": "MkDocs Example",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".."
+    },
+    "customizations":{
+        "vscode": {
+            "extensions": [
+                "donjayamanne.githistory",
+                "ms-azuretools.vscode-docker"
+            ]
+        }
+    },
+    "forwardPorts": [8000],
+    "postCreateCommand": "mkdocs serve"
+}
