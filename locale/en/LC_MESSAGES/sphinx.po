@@ -4,29 +4,31 @@ msgstr ""
 
 #: docs/sphinx.md:block 1 (header)
 msgid "Sphinx"
-msgstr ""
+msgstr "Sphinx"
 
 #: docs/sphinx.md:block 2 (header)
 msgid "Создание проекта"
-msgstr ""
+msgstr "Project Creation"
 
 #: docs/sphinx.md:block 3 (ordered list)
 msgid "Создайте новый проект, следуя подсказкам мастера"
-msgstr ""
+msgstr "Create a new project following the wizard prompts"
 
 #: docs/sphinx.md:block 3 (ordered list)
 msgid ""
 "Отредактируйте `conf.py` по [инструкции](https://www.sphinx-"
 "doc.org/en/master/usage/configuration.html)"
 msgstr ""
+"Edit `conf.py` according to the [instructions](https://www.sphinx-"
+"doc.org/en/master/usage/configuration.html)"
 
 #: docs/sphinx.md:block 3 (ordered list)
 msgid "Запустите сервер"
-msgstr ""
+msgstr "Start the server"
 
 #: docs/sphinx.md:block 4 (header)
 msgid "Добавление страниц"
-msgstr ""
+msgstr "Adding Pages"
 
 #: docs/sphinx.md:block 5 (paragraph)
 msgid ""
@@ -34,39 +36,41 @@ msgid ""
 "каждой папке должен находиться файл `index.rst`, содержащий ссылки на "
 "остальные файлы."
 msgstr ""
+"In the `sources` folder, create your documentation pages in `.rst` format. "
+"Each folder must contain an `index.rst` file with links to other files."
 
 #: docs/sphinx.md:block 6 (header)
 msgid "Сборка статического сайта"
-msgstr ""
+msgstr "Building a Static Site"
 
 #: docs/sphinx.md:block 7 (paragraph)
 msgid "Для сборки статического сайта выполните команду"
-msgstr ""
+msgstr "To build a static site, run the command"
 
 #: docs/sphinx.md:block 9 (paragraph)
 msgid "При наличии make-файла сборку можно запустить командой"
-msgstr ""
+msgstr "If a makefile is present, you can start the build with the command"
 
 #: docs/sphinx.md:block 11 (header)
 msgid "Добавление переводов"
-msgstr ""
+msgstr "Adding Translations"
 
 #: docs/sphinx.md:block 12 (ordered list)
 msgid "Добавьте в `conf.py` следующие строки"
-msgstr ""
+msgstr "Add the following lines to `conf.py`"
 
 #: docs/sphinx.md:block 12 (ordered list)
 msgid "Запустите сборку в формат `gettext`"
-msgstr ""
+msgstr "Run the build in `gettext` format"
 
 #: docs/sphinx.md:block 12 (ordered list)
 msgid "Сгенерируйте файлы локализации"
-msgstr ""
+msgstr "Generate localization files"
 
 #: docs/sphinx.md:block 12 (ordered list)
 msgid "Добавьте переводы строк в файлы локализации"
-msgstr ""
+msgstr "Add string translations to localization files"
 
 #: docs/sphinx.md:block 12 (ordered list)
 msgid "Выполните сборку"
-msgstr ""
+msgstr "Run the build"

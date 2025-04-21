@@ -8,11 +8,11 @@ msgstr ""
 
 #: docs/mkdocs.md:block 2 (header)
 msgid "Создание проекта"
-msgstr ""
+msgstr "Project Creation"
 
 #: docs/mkdocs.md:block 3 (ordered list)
 msgid "Создайте новый проект"
-msgstr ""
+msgstr "Create a new project"
 
 #: docs/mkdocs.md:block 3 (ordered list)
 msgid ""
@@ -20,18 +20,21 @@ msgid ""
 "[инструкции](https://squidfunk.github.io/mkdocs-material/creating-your-"
 "site/#minimal-configuration)"
 msgstr ""
+"Edit `mkdocs.yml` according to the "
+"[instructions](https://squidfunk.github.io/mkdocs-material/creating-your-"
+"site/#minimal-configuration)"
 
 #: docs/mkdocs.md:block 3 (ordered list)
 msgid "**Пример**"
-msgstr ""
+msgstr "**Example**"
 
 #: docs/mkdocs.md:block 3 (ordered list)
 msgid "Запустите сервер"
-msgstr ""
+msgstr "Start the server"
 
 #: docs/mkdocs.md:block 4 (header)
 msgid "Добавление страниц"
-msgstr ""
+msgstr "Adding Pages"
 
 #: docs/mkdocs.md:block 5 (paragraph)
 msgid ""
@@ -39,43 +42,46 @@ msgid ""
 "добавьте их в `mkdocs.yml`. Документация может иметь многоуровневую "
 "структуру."
 msgstr ""
+"In the `docs` folder, create your documentation pages in `.md` format and "
+"add them to `mkdocs.yml`. The documentation can have a multi-level "
+"structure."
 
 #: docs/mkdocs.md:block 8 (header)
 msgid "Сборка статического сайта"
-msgstr ""
+msgstr "Building a Static Site"
 
 #: docs/mkdocs.md:block 9 (paragraph)
 msgid "Для сборки статического сайта выполните команду"
-msgstr ""
+msgstr "To build a static site, run the command"
 
 #: docs/mkdocs.md:block 11 (paragraph)
 msgid "Собранные файлы можно загрузить на веб-сервер."
-msgstr ""
+msgstr "The generated files can be uploaded to a web server."
 
 #: docs/mkdocs.md:block 12 (paragraph)
 msgid "!!! tip \"Совет\""
-msgstr ""
+msgstr "!!! tip"
 
 #: docs/mkdocs.md:block 14 (header)
 msgid "Добавление переводов"
-msgstr ""
+msgstr "Adding Translations"
 
 #: docs/mkdocs.md:block 15 (ordered list)
 msgid "Добавьте настройки плагина локализации в `mkdocs.yml`"
-msgstr ""
+msgstr "Add localization plugin settings to `mkdocs.yml`"
 
 #: docs/mkdocs.md:block 15 (ordered list)
 msgid "Сгенерируйте файлы локализации"
-msgstr ""
+msgstr "Generate localization files"
 
 #: docs/mkdocs.md:block 15 (ordered list)
 msgid "Добавьте переводы строк в файлы локализации"
-msgstr ""
+msgstr "Add string translations to localization files"
 
 #: docs/mkdocs.md:block 15 (ordered list)
 msgid "Сгенерируйте файлы markdown"
-msgstr ""
+msgstr "Generate markdown files"
 
 #: docs/mkdocs.md:block 15 (ordered list)
 msgid "Выполните сборку"
-msgstr ""
+msgstr "Run the build"

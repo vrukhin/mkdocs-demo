@@ -16,19 +16,22 @@ msgstr ""
 
 #: docs/index.md:block 3 (header)
 msgid "Добро пожаловать"
-msgstr ""
+msgstr "Welcome"
 
 #: docs/index.md:block 5 (unordered list)
 msgid ""
 ":simple-materialformkdocs: **[MkDocs]** - мультиязычная документация с "
 "использованием `MkDocs`"
 msgstr ""
+":simple-materialformkdocs: __[MkDocs]__ - multilingual documentation using "
+"`MkDocs`"
 
 #: docs/index.md:block 5 (unordered list)
 msgid ""
 ":simple-sphinx: **[Sphinx]** - мультиязычная документация с использованием "
 "`Sphinx`"
 msgstr ""
+":simple-sphinx: __[Sphinx]__ - multilingual documentation using `Sphinx`"
 
 #: docs/index.md:block 6 (html)
 #, fuzzy
