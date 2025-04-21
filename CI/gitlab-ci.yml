@@ -8,7 +8,7 @@ build:
   stage: build
   script:
     - pip config set global.proxy $http_proxy
-    - pip install mkdocs-material
+    - pip install -r requirements.txt
     - mkdir _build
     - mkdocs build --site-dir _build
   artifacts:
@@ -25,7 +25,7 @@ pages:
   stage: deploy
   script:
     - pip config set global.proxy $http_proxy
-    - pip install mkdocs-material
+    - pip install -r requirements.txt
     - mkdocs build --site-dir public
   artifacts:
     paths:
